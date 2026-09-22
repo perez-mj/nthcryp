@@ -1,0 +1,9 @@
+node_modules/
+*.nth
+*.log
+.DS_Store
+scratch/
+console/
+structure/
+test.txt
+docs/overview.md

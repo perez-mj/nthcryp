@@ -1,0 +1,17 @@
+{
+  "name": "nthcryp",
+  "version": "0.1.0",
+  "description": "The Nth layer of encryption.",
+  "type": "commonjs",
+  "bin": {
+    "nthcryp": "./bin/nthcryp.js"
+  },
+  "scripts": {
+    "start": "node bin/nthcryp.js",
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
